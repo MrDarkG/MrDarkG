@@ -7,3 +7,4 @@
 - 📫 How to reach me: tel: +995 555 715 689
 
 - ⚡ All those repositories are fun. most my repositories are pirvate, because of easy reason. Codes belongs to companies i worked for and i can't share. but repos you can see are tasks from University or Just bunch of junk while i was trying to create something ...
+- some of them also are for my students. I used to be lecturer at university.
