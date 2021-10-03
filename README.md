@@ -11,16 +11,6 @@
 
 
 
-<table>
-  <tr>
-    <td valign="top">
-        ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrDarkG)
-    </td>
-    <td valign="top">
-      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrDarkG&layout=compact)
-    </td>
-     <td valign="top">
-      ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrDarkG&show_icons=true&theme=radical)
-    </td>
-  </tr>
-</table>
+| Top Langs |      | Historu                |
+| :-------- | :------- | :------------------------- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrDarkG) |![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrDarkG&layout=compact) | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrDarkG&show_icons=true&theme=radical) |
