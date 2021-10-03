@@ -15,4 +15,4 @@
 `Most of my repos are private so a stats generator can really see my skill :/`
 | Top Langs |   History   | Latest Public repo                 |
 | :-------- | :------- | :------------------------- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrDarkG) | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrDarkG&show_icons=true&theme=radical)|![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrDarkG&repo=metzler)|
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrDarkG&layout=compact) | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrDarkG&show_icons=true&theme=radical)|![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrDarkG&repo=metzler)|
