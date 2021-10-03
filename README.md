@@ -13,4 +13,4 @@
 
 | Top Langs |   History   |                 |
 | :-------- | :------- | :------------------------- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrDarkG) | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrDarkG&show_icons=true&theme=radical)|<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="200"> |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrDarkG) | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrDarkG&show_icons=true&theme=radical)|<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="250"> |
