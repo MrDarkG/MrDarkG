@@ -3,7 +3,7 @@
 # Hi there 👋
 
 
-- 🔭 I’m currently working For Cyber Security Group 
+- 🔭 I’m currently working For GoandGrow
 - 🌱 I’m currently learning Flutter
 - 💬 Ask me about anything. im basicaly google <3 
 - 📫 How to reach me: tel: +995 555 715 689
