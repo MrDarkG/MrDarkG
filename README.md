@@ -18,4 +18,4 @@
 | :-------- | :------- | :------------------------- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrDarkG&layout=compact) | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrDarkG&show_icons=true&theme=radical)|![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrDarkG&repo=metzler)|
  
-<img src="[YOUR_VERCEL_PROJECT_DOMAIN]/[METHOD]?username=[YOUR_LINKEDIN_USERNAME]" />
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MrDarkG&theme=monokai&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
