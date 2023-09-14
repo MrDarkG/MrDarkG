@@ -1,5 +1,6 @@
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="100%"> 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MrDarkG&label=Profile%20views&color=brightgreen&style=flat" alt="MrDarkG" /> </p>
 # Hi there 👋
 
 
@@ -11,6 +12,12 @@
 - ⚡ All those repositories are fun. most my repositories are pirvate, because of easy reason. Codes belongs to companies i worked for and i can't share. but repos you can see are tasks from University or Just bunch of junk while i was trying to create something ...
 - some of them also are for my students. I used to be lecturer at university.
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MrDarkG" alt="MrDarkG" /></a> </p>
+
+<p align="center">   
+  <a href="https://github.com/nikanoza"> 
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrDarkG&theme=radical" alt="MrDarkG's GitHub Contribution"/>     </a>
+</p>
 
 #### NOte
 #### Most of my repos are private so a stats generator can't really see my skill :/
