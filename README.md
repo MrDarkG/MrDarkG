@@ -1,7 +1,7 @@
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="100%"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MrDarkG&label=Profile%20views&color=brightgreen&style=flat" alt="MrDarkG" /> </p>
-# Hi there 👋
+## Hi there 👋
 
 
 - 🔭 I’m currently working For GoandGrow
@@ -19,7 +19,7 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrDarkG&theme=radical" alt="MrDarkG's GitHub Contribution"/>     </a>
 </p>
 
-#### NOte
+#### Note
 #### Most of my repos are private so a stats generator can't really see my skill :/
 | Top Langs |   History   | Latest Public repo                 |
 | :-------- | :------- | :------------------------- |
