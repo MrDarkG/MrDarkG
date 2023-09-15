@@ -1,8 +1,8 @@
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="100%"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MrDarkG&label=Profile%20views&color=brightgreen&style=flat" alt="MrDarkG" /> </p>
-## Hi there 👋
 
+# Hi there 👋
 
 - 🔭 I’m currently working For GoandGrow
 - 🌱 I’m currently learning Flutter
