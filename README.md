@@ -4,8 +4,8 @@
 
 # Hi there 👋
 
-- 🔭 I’m currently working For GoandGrow
-- 🌱 I’m currently learning Flutter
+- 🔭 I’m currently working For Qubit Labs
+- 🌱 I’m currently learning Symfony
 - 💬 Ask me about anything. im basicaly google <3 
 - 📫 How to reach me: tel: +995 555 715 689
 
